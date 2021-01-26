@@ -1,6 +1,6 @@
 // REKURSIF
 	function tes() {
-	return tes();
+		return tes();
 	}
 	tes()
 
@@ -34,7 +34,7 @@
 
 // Implementasi Rekursif
 	// 1. Menggantikan looping
-	// Fibonacci
-	// Pencarian dan penelusuran pada struktur data list dan tree
-	// Bahasa pemrograman yang tidak memiliki pengulangan (Haskel, Erlang, Prolog, dll)
+	// 2. Fibonacci
+	// 3. Pencarian dan penelusuran pada struktur data list dan tree
+	// 4. Bahasa pemrograman yang tidak memiliki pengulangan (Haskel, Erlang, Prolog, dll)
 	// Dll
