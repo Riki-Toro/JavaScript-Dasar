@@ -42,4 +42,3 @@ var mhs6 = new Mahasiswa("Andi", "666666", "Akutansi");
 
 // object.create) >> dicoba setelah memahami prototype
 
-
